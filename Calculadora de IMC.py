@@ -1,6 +1,6 @@
 
 # Esta calculadora de IMC funciona para personas de 20 o más años (la variable edad funciona como filtro). 
-# Para niños y adolescentes es necesario considerar otras variables además del peso y la estatura en el cálculo del imc.
+# Para niños y adolescentes es necesario considerar otras variables además del peso y la estatura en el cálculo del IMC.
 
 edad = int(input("¿Cuál es su edad en años?\n"))
 
