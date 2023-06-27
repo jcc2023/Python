@@ -1,0 +1,132 @@
+{
+    "nombre": "calyrex",
+    "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/898.png",
+    "estadisticas": [
+        {
+            "base_stat": 100,
+            "effort": 3,
+            "stat": {
+                "name": "hp",
+                "url": "https://pokeapi.co/api/v2/stat/1/"
+            }
+        },
+        {
+            "base_stat": 80,
+            "effort": 0,
+            "stat": {
+                "name": "attack",
+                "url": "https://pokeapi.co/api/v2/stat/2/"
+            }
+        },
+        {
+            "base_stat": 80,
+            "effort": 0,
+            "stat": {
+                "name": "defense",
+                "url": "https://pokeapi.co/api/v2/stat/3/"
+            }
+        },
+        {
+            "base_stat": 80,
+            "effort": 0,
+            "stat": {
+                "name": "special-attack",
+                "url": "https://pokeapi.co/api/v2/stat/4/"
+            }
+        },
+        {
+            "base_stat": 80,
+            "effort": 0,
+            "stat": {
+                "name": "special-defense",
+                "url": "https://pokeapi.co/api/v2/stat/5/"
+            }
+        },
+        {
+            "base_stat": 80,
+            "effort": 0,
+            "stat": {
+                "name": "speed",
+                "url": "https://pokeapi.co/api/v2/stat/6/"
+            }
+        }
+    ],
+    "peso": 77,
+    "tama\u00f1o": 11,
+    "movimientos": [
+        "pound",
+        "pay-day",
+        "take-down",
+        "psybeam",
+        "hyper-beam",
+        "mega-drain",
+        "leech-seed",
+        "growth",
+        "solar-beam",
+        "confusion",
+        "psychic",
+        "agility",
+        "light-screen",
+        "reflect",
+        "metronome",
+        "swift",
+        "rest",
+        "tri-attack",
+        "substitute",
+        "snore",
+        "protect",
+        "scary-face",
+        "giga-drain",
+        "endure",
+        "sleep-talk",
+        "safeguard",
+        "baton-pass",
+        "encore",
+        "sunny-day",
+        "future-sight",
+        "facade",
+        "helping-hand",
+        "trick",
+        "skill-swap",
+        "imprison",
+        "aromatherapy",
+        "bullet-seed",
+        "mud-shot",
+        "magical-leaf",
+        "calm-mind",
+        "power-swap",
+        "guard-swap",
+        "seed-bomb",
+        "energy-ball",
+        "giga-impact",
+        "zen-headbutt",
+        "trick-room",
+        "leaf-storm",
+        "grass-knot",
+        "wonder-room",
+        "psyshock",
+        "magic-room",
+        "round",
+        "stored-power",
+        "ally-switch",
+        "heal-pulse",
+        "snarl",
+        "draining-kiss",
+        "grassy-terrain",
+        "solar-blade",
+        "pollen-puff",
+        "psychic-terrain",
+        "speed-swap",
+        "body-press",
+        "life-dew",
+        "expanding-force",
+        "tera-blast"
+    ],
+    "habilidades": [
+        "unnerve"
+    ],
+    "tipos": [
+        "psychic",
+        "grass"
+    ]
+}
